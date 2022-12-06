@@ -5,4 +5,7 @@ class Main{
     public int add(int a, int b){
         return b + a;
     }
+    public int dif(int a, int b){
+        return b - a;
+    }
 }
