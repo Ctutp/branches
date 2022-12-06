@@ -11,4 +11,7 @@ class Main{
     public int div(int a, int b){
         return b / a;
     }
+    public int times(int a, int b){
+        return b * a;
+    }
 }
